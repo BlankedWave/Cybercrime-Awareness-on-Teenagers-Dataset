@@ -1,2 +1,2 @@
-## This is a dataset about the crime awareness aong teenagers
+## This is a dataset about the crime awareness among teenagers
 Feel free to use it.
